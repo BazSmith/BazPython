@@ -1,1 +1,1 @@
-Print ("Hi Baz")
+Print (Hi Baz)
